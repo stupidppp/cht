@@ -1,0 +1,15 @@
+1.create a higher object than  string or int , this is a combined thing ,to
+reparenst  hash key or value ;
+	function:
+	1.create_object;  
+	2.free_object;  
+	3.modify_oject;
+	feature:
+	1.focus on string or int ,  without the limitation of length;
+	2.power up string handle 
+
+
+2.use a data structure  to store hashtable   ; 
+	example: rbtree 
+
+3. over
