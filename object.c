@@ -92,7 +92,7 @@ int main()
 	int p =2222;
 	rc = ob_create(&num,&p,INT);
 	printf("int:%d,size:%d,used:%d\n",*(int *)num.ob,num.size,num.used);
-	
+	ob_free(&num);
 
 
 	return 0;
